@@ -5,5 +5,5 @@
 ### Written by Jonathan Jiang under the guidance of Lelia Glass, Ph.D.
 
 Required external libraries:
-* [SpaCy] (https://spacy.io/)
-* [NLTK] (https://www.nltk.org/)
+* [SpaCy](https://spacy.io/)
+* [NLTK](https://www.nltk.org/)
